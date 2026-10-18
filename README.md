@@ -1,4 +1,4 @@
-# Yuhansi Portfolio — Project Images Fixed
+# Yuhansi Portfolio
 
 This is the complete React + Vite portfolio. TourFlow and BookNest screenshots are the **original images you supplied**. Their cards now use `object-fit: contain` so the entire image fits inside each card, on desktop and mobile, without cropping.
 
